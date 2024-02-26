@@ -1,0 +1,11 @@
+gradio
+gradio_rich_textbox
+gradio-client
+torchvision
+torch
+python-dotenv
+pandas
+pydub
+cohere
+surya-ocr
+pillow
